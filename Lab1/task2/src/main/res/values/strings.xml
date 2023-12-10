@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">task2</string>
+    <string name="app_title">Calculator App</string>
+    <string name="calculateButton">Calculate</string>
+    <string name="num1Hint">First Number</string>
+    <string name="num2Hint">Second Number</string>
+    <string name="operatorHint">+, -, * or /</string>
+    <string name="backButton">Back</string>
+</resources>
