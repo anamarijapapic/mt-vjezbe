@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="location_permission_not_granted">Location permission not granted</string>
+    <string name="location_permission_granted">Location permission granted</string>
+    <string name="location_permission_already_granted">Location permission already granted</string>
+    <string name="location_details">Location Details</string>
+    <string name="permission_status">Permission Status</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="country">Country</string>
+</resources>
