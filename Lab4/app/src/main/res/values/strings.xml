@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="name">Name</string>
+    <string name="lecturer">Lecturer</string>
+    <string name="year">Year</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+</resources>
