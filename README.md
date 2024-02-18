@@ -4,3 +4,7 @@ SOSS Kopilica, Primijenjeno računarstvo - 1. godina, 1. semestar; akademska god
 
 Nositeljica predmeta: Marina Rodić, v. pred.  
 Suradnica/asistentica: Anđela Radoš  
+
+## Final Project
+
+[QuizGame](https://github.com/anamarijapapic/QuizGame) - Android app developed in Java
